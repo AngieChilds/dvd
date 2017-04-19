@@ -1,1 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+angie:
+    name: Angie
+    email: me@home.co.za
+    password: 1234
+    
+    
